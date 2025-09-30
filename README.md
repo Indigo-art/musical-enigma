@@ -59,11 +59,11 @@ Below are some of the repositories I’m most proud of:
 
 ---
 
-### 🎮 **Interactive Snake Game**  
-Let’s add a bit of fun with a snake game tracking your GitHub contributions. The snake grows as you contribute!
+### 🎮 **GitHub Contribution Graph Game**  
+Here’s a fun way to visualize your GitHub contributions! As you contribute, the "game" updates, giving you a colorful and interactive view of your activity.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/vcaindig/vcaindig/output/github-contribution-graph.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
