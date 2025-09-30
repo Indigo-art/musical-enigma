@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 ## 🌟 Hey there! I'm **vcaindig** 🌟
 
@@ -15,6 +15,10 @@ I’m a **Frontend Developer** with a keen interest in building **high-performan
 - 🌍 **Available for:** Freelance projects, collaborations, or speaking engagements about web development.
 
 ---
+
+</div>
+
+<div align="right">
 
 ### 🚀 **Tech Stack**
 
@@ -76,6 +80,10 @@ These repositories showcase my coding skills, contributions to open-source, and 
 
 ---
 
+</div>
+
+<div align="center">
+
 ### 🎮 **GitHub Contribution Snake Game**  
 To add a bit of fun while tracking your GitHub contributions, here's a **Snake game** that grows as you contribute more to your repositories! The idea is that your contributions directly impact the game, providing an interactive view of your progress.
 
@@ -110,3 +118,4 @@ I’m always open to collaborating with talented individuals, brainstorming new 
 - **Contribute to Open Source**: I plan to contribute to a few **open-source libraries** and frameworks that I use daily in my projects.
 
 </div>
+
