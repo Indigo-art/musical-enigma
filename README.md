@@ -18,11 +18,13 @@ I’m a **Frontend Developer** with a keen interest in building **high-performan
 
 </div>
 
-<div align="right">
+<div align="center">
 
 ### 🚀 **Tech Stack**
 
 I build websites and apps using the following tools and frameworks:
+
+</div>
 
 - **Frontend:**
   - HTML5, CSS3, JavaScript (ES6+)
@@ -51,9 +53,13 @@ I build websites and apps using the following tools and frameworks:
 
 ---
 
+<div align="center">
+
 ### 📈 **GitHub Stats**
 
 Here’s an overview of my GitHub activity that I take pride in:
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vcaindig&show_icons=true&theme=radical" width="400"/>
@@ -62,9 +68,13 @@ Here’s an overview of my GitHub activity that I take pride in:
 
 ---
 
+<div align="center">
+
 ### 📌 **Top Repositories**
 
 These repositories showcase my coding skills, contributions to open-source, and passion for solving complex problems.
+
+</div>
 
 <p align="center">
   <a href="https://github.com/vcaindig/pdfplumber" target="_blank">
@@ -80,12 +90,12 @@ These repositories showcase my coding skills, contributions to open-source, and 
 
 ---
 
-</div>
-
 <div align="center">
 
 ### 🎮 **GitHub Contribution Snake Game**  
 To add a bit of fun while tracking your GitHub contributions, here's a **Snake game** that grows as you contribute more to your repositories! The idea is that your contributions directly impact the game, providing an interactive view of your progress.
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Game" />
@@ -93,9 +103,13 @@ To add a bit of fun while tracking your GitHub contributions, here's a **Snake g
 
 ---
 
+<div align="center">
+
 ### 📣 **Let’s Connect!**
 
 I’m always open to collaborating with talented individuals, brainstorming new ideas, or diving deep into the latest web technologies.
+
+</div>
 
 <p align="center">
   <a href="https://github.com/vcaindig" target="_blank">
@@ -111,6 +125,8 @@ I’m always open to collaborating with talented individuals, brainstorming new 
 
 ---
 
+<div align="center">
+
 ### 🎯 **Goals for the Future**
 
 - **Master Full-Stack Development**: I’m currently working on integrating my frontend expertise with backend technologies like **Node.js** and **Express**.  
@@ -118,4 +134,3 @@ I’m always open to collaborating with talented individuals, brainstorming new 
 - **Contribute to Open Source**: I plan to contribute to a few **open-source libraries** and frameworks that I use daily in my projects.
 
 </div>
-
