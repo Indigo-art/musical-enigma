@@ -134,3 +134,4 @@ I’m always open to collaborating with talented individuals, brainstorming new 
 - **Contribute to Open Source**: I plan to contribute to a few **open-source libraries** and frameworks that I use daily in my projects.
 
 </div>
+
