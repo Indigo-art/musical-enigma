@@ -1,3 +1,5 @@
+<div align="center">
+
 ## 🌟 Hey there! I'm **vcaindig** 🌟
 
 ### 👨‍💻 **Frontend Developer** | 🚀 **Tech Enthusiast** | ✨ **UI/UX Design**  
@@ -18,7 +20,7 @@ Hello! I'm a passionate frontend developer who enjoys turning creative ideas int
 
 Here’s the toolkit I work with to create amazing digital experiences:
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5722?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-0277BD?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-FBC02D?style=flat-square&logo=javascript&logoColor=black" />
@@ -43,13 +45,17 @@ A peek into my GitHub journey and contributions.
 
 Below are some of the repositories I’m most proud of:
 
-<a href="https://github.com/vcaindig/pdfplumber" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vcaindig&repo=pdfplumber&theme=blue-green" width="380"/>
-</a>
+<p align="center">
+  <a href="https://github.com/vcaindig/pdfplumber" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vcaindig&repo=pdfplumber&theme=blue-green" width="380"/>
+  </a>
+</p>
 
-<a href="https://github.com/vcaindig/fuck-u-code" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vcaindig&repo=fuck-u-code&theme=blue-green" width="380"/>
-</a>
+<p align="center">
+  <a href="https://github.com/vcaindig/fuck-u-code" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vcaindig&repo=fuck-u-code&theme=blue-green" width="380"/>
+  </a>
+</p>
 
 ---
 
@@ -65,11 +71,7 @@ Let’s add a bit of fun with a snake game tracking your GitHub contributions. T
 ### 📣 **Let’s Connect!**  
 I’m always up for connecting, collaborating, or just talking about tech.
 
-- 📧 **Email:** vcaindig@example.com  
-- 🐦 **Twitter:** [@vcaindig](https://twitter.com/vcaindig)  
-- 💼 **LinkedIn:** [vcaindig](https://www.linkedin.com/in/vcaindig)
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/vcaindig" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -88,3 +90,5 @@ I’m always up for connecting, collaborating, or just talking about tech.
 - Build more accessible web applications  
 - Contribute to open-source projects  
 - Enhance my skills in UI/UX design and full-stack development  
+
+</div>
