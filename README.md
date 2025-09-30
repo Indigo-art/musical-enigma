@@ -2,23 +2,39 @@
 
 ## 🌟 Hey there! I'm **vcaindig** 🌟
 
-### 👨‍💻 **Frontend Developer** | 🚀 **Tech Enthusiast** | ✨ **UI/UX Design**  
+### 👨‍💻 **Frontend Developer** | 🚀 **Tech Enthusiast** | 🔧 **Engineer by Design**  
 
 ---
 
-### 🧑‍💻 **Who Am I?**
+### 🧑‍💻 **About Me**
 
-Hello! I'm a passionate frontend developer who enjoys turning creative ideas into smooth, performant user interfaces. I thrive in building applications that are not only functional but also delight the user. I'm constantly learning and exploring new tech to level up my skills.
+I’m a **Frontend Developer** with a keen interest in building **high-performance**, **responsive UIs** that stand the test of time. I’m passionate about clean, maintainable code and take pride in designing **user-centric experiences**. I thrive in leveraging modern web technologies like **React**, **Tailwind CSS**, and **JavaScript** to craft solutions that solve real-world problems.
 
-- 🚶‍♂️ **Hobbies:** Walking, coding, reading about the latest tech trends  
-- 🛠 **Main Skills:** UI Design, JavaScript, React, Tailwind CSS  
-- 🌍 **Available for:** Collaboration, open-source contributions, and freelance work
+- 🚶‍♂️ **Hobbies:** Long walks, diving deep into tech blogs, and contributing to open-source.  
+- 🔍 **Focus:** Writing scalable, modular frontend architectures and improving user experiences with state-of-the-art tools.  
+- 🌍 **Available for:** Freelance projects, collaborations, or speaking engagements about web development.
 
 ---
 
 ### 🚀 **Tech Stack**
 
-Here’s the toolkit I work with to create amazing digital experiences:
+I build websites and apps using the following tools and frameworks:
+
+- **Frontend:**
+  - HTML5, CSS3, JavaScript (ES6+)
+  - **React.js** (for building interactive UIs)
+  - **Tailwind CSS** (for utility-first design)
+  - **Next.js** (for SSR and full-stack React applications)
+
+- **Version Control:**
+  - **Git** (for code management and collaboration)
+  - **GitHub** (for version control and project management)
+
+- **Dev Tools:**
+  - **VSCode** (primary IDE)
+  - **Webpack** (for module bundling)
+  - **Babel** (for JavaScript transpiling)
+  - **Jest** (for unit testing)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5722?style=flat-square&logo=html5&logoColor=white" />
@@ -31,19 +47,20 @@ Here’s the toolkit I work with to create amazing digital experiences:
 
 ---
 
-### 📈 **GitHub Stats**  
-A peek into my GitHub journey and contributions.
+### 📈 **GitHub Stats**
+
+Here’s an overview of my GitHub activity that I take pride in:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vcaindig&show_icons=true&theme=solarized-dark" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vcaindig&theme=solarized-dark&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vcaindig&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vcaindig&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
 
-### 📌 **Top Repositories**  
+### 📌 **Top Repositories**
 
-Below are some of the repositories I’m most proud of:
+These repositories showcase my coding skills, contributions to open-source, and passion for solving complex problems.
 
 <p align="center">
   <a href="https://github.com/vcaindig/pdfplumber" target="_blank">
@@ -59,17 +76,18 @@ Below are some of the repositories I’m most proud of:
 
 ---
 
-### 🎮 **GitHub Contribution Graph Game**  
-Here’s a fun way to visualize your GitHub contributions! As you contribute, the "game" updates, giving you a colorful and interactive view of your activity.
+### 🎮 **GitHub Contribution Snake Game**  
+To add a bit of fun while tracking your GitHub contributions, here's a **Snake game** that grows as you contribute more to your repositories! The idea is that your contributions directly impact the game, providing an interactive view of your progress.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vcaindig/vcaindig/output/github-contribution-graph.svg" alt="GitHub Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Game" />
 </p>
 
 ---
 
-### 📣 **Let’s Connect!**  
-I’m always up for connecting, collaborating, or just talking about tech.
+### 📣 **Let’s Connect!**
+
+I’m always open to collaborating with talented individuals, brainstorming new ideas, or diving deep into the latest web technologies.
 
 <p align="center">
   <a href="https://github.com/vcaindig" target="_blank">
@@ -87,8 +105,8 @@ I’m always up for connecting, collaborating, or just talking about tech.
 
 ### 🎯 **Goals for the Future**
 
-- Build more accessible web applications  
-- Contribute to open-source projects  
-- Enhance my skills in UI/UX design and full-stack development  
+- **Master Full-Stack Development**: I’m currently working on integrating my frontend expertise with backend technologies like **Node.js** and **Express**.  
+- **Build Scalable Web Applications**: Focusing on creating applications that scale with ease and have a seamless user experience.  
+- **Contribute to Open Source**: I plan to contribute to a few **open-source libraries** and frameworks that I use daily in my projects.
 
 </div>
