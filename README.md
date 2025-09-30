@@ -1,12 +1,12 @@
 <div align="center">
 
-## 🌟 Hey there! I'm **vcaindig** 🌟
+## <span style="color: #4CAF50;">🌟 Hey there! I'm <span style="color: #FF5733;">**vcaindig**</span> 🌟</span>
 
-### 👨‍💻 **Frontend Developer** | 🚀 **Tech Enthusiast** | 🔧 **Engineer by Design**  
+### <span style="color: #2196F3;">👨‍💻 **Frontend Developer**</span> | <span style="color: #FFC107;">🚀 **Tech Enthusiast**</span> | <span style="color: #FF5722;">🔧 **Engineer by Design**</span>  
 
 ---
 
-### 🧑‍💻 **About Me**
+### <span style="color: #9C27B0;">🧑‍💻 **About Me**</span>
 
 I’m a **Frontend Developer** with a keen interest in building **high-performance**, **responsive UIs** that stand the test of time. I’m passionate about clean, maintainable code and take pride in designing **user-centric experiences**. I thrive in leveraging modern web technologies like **React**, **Tailwind CSS**, and **JavaScript** to craft solutions that solve real-world problems.
 
@@ -20,27 +20,27 @@ I’m a **Frontend Developer** with a keen interest in building **high-performan
 
 <div align="center">
 
-### 🚀 **Tech Stack**
+### <span style="color: #FF6347;">🚀 **Tech Stack**</span>
 
 I build websites and apps using the following tools and frameworks:
 
 </div>
 
-- **Frontend:**
+- <span style="color: #FF5722;">**Frontend:**</span>
   - HTML5, CSS3, JavaScript (ES6+)
-  - **React.js** (for building interactive UIs)
-  - **Tailwind CSS** (for utility-first design)
-  - **Next.js** (for SSR and full-stack React applications)
+  - **<span style="color: #61DAFB;">React.js</span>** (for building interactive UIs)
+  - <span style="color: #38B2AC;">Tailwind CSS</span> (for utility-first design)
+  - **<span style="color: #000000;">Next.js</span>** (for SSR and full-stack React applications)
 
-- **Version Control:**
-  - **Git** (for code management and collaboration)
+- <span style="color: #FF5722;">**Version Control:**</span>
+  - **<span style="color: #F05032;">Git</span>** (for code management and collaboration)
   - **GitHub** (for version control and project management)
 
-- **Dev Tools:**
-  - **VSCode** (primary IDE)
-  - **Webpack** (for module bundling)
-  - **Babel** (for JavaScript transpiling)
-  - **Jest** (for unit testing)
+- <span style="color: #FF5722;">**Dev Tools:**</span>
+  - <span style="color: #007ACC;">VSCode</span> (primary IDE)
+  - **<span style="color: #FF9800;">Webpack</span>** (for module bundling)
+  - **<span style="color: #E44D26;">Babel</span>** (for JavaScript transpiling)
+  - <span style="color: #F44336;">Jest</span> (for unit testing)
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-FF5722?style=flat-square&logo=html5&logoColor=white" />
@@ -55,7 +55,7 @@ I build websites and apps using the following tools and frameworks:
 
 <div align="center">
 
-### 📈 **GitHub Stats**
+### <span style="color: #FF6347;">📈 **GitHub Stats**</span>
 
 Here’s an overview of my GitHub activity that I take pride in:
 
@@ -70,7 +70,7 @@ Here’s an overview of my GitHub activity that I take pride in:
 
 <div align="center">
 
-### 📌 **Top Repositories**
+### <span style="color: #FF6347;">📌 **Top Repositories**</span>
 
 These repositories showcase my coding skills, contributions to open-source, and passion for solving complex problems.
 
@@ -92,7 +92,7 @@ These repositories showcase my coding skills, contributions to open-source, and 
 
 <div align="center">
 
-### 🎮 **GitHub Contribution Snake Game**  
+### 🎮 <span style="color: #8BC34A;">**GitHub Contribution Snake Game**</span>  
 To add a bit of fun while tracking your GitHub contributions, here's a **Snake game** that grows as you contribute more to your repositories! The idea is that your contributions directly impact the game, providing an interactive view of your progress.
 
 </div>
@@ -105,7 +105,7 @@ To add a bit of fun while tracking your GitHub contributions, here's a **Snake g
 
 <div align="center">
 
-### 📣 **Let’s Connect!**
+### <span style="color: #FF6347;">📣 **Let’s Connect!**</span>
 
 I’m always open to collaborating with talented individuals, brainstorming new ideas, or diving deep into the latest web technologies.
 
@@ -127,7 +127,7 @@ I’m always open to collaborating with talented individuals, brainstorming new 
 
 <div align="center">
 
-### 🎯 **Goals for the Future**
+### <span style="color: #FF6347;">🎯 **Goals for the Future**</span>
 
 - **Master Full-Stack Development**: I’m currently working on integrating my frontend expertise with backend technologies like **Node.js** and **Express**.  
 - **Build Scalable Web Applications**: Focusing on creating applications that scale with ease and have a seamless user experience.  
